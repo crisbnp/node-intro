@@ -1,0 +1,15 @@
+{
+  "name": "node-intro",
+  "version": "1.0.0",
+  "description": "node intro stuff at CN",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Cristien Natal",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
